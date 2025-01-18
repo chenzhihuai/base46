@@ -13,7 +13,7 @@ local integrations = {
   "mason",
   "nvcheatsheet",
   "nvimtree",
-  "neotree",
+  "neo-tree",
   "statusline",
   "syntax",
   "treesitter",
