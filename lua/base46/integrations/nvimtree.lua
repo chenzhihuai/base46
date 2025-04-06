@@ -26,7 +26,7 @@ return {
   NvimTreeDiagnosticHintFolderHL = { link = "DiagnosticHint" },
 
   NvimTreeWinSeparator = {
-    fg = colors.darker_black,
+    fg = colors.black,
     bg = colors.darker_black,
   },
 
